@@ -1,7 +1,7 @@
 # skatepark-prueba-react-nodejs-firebase
 
 Estoy usando una base de datos PostgreSQL con las siguientes tablas: 
-````
+
 ```sql
 CREATE DATABASE skatepark;
 
@@ -10,4 +10,4 @@ VARCHAR(25) NOT NULL, password VARCHAR(25) NOT NULL, anos_experiencia
 INT NOT NULL, especialidad VARCHAR(50) NOT NULL, foto VARCHAR(255) NOT
 NULL, estado BOOLEAN NOT NULL);
 ```
-````
+
