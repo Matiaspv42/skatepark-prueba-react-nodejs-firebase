@@ -1,3 +1,3 @@
 [submodule "skatepark-react"]
-	path = client
+	path = cliente
 	url = https://github.com/Matiaspv42/skatepark-react.git
