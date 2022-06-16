@@ -2,7 +2,7 @@
 
 Estoy usando una base de datos PostgreSQL con las siguientes tablas: 
 ````
-```postgresql
+```sql
 CREATE DATABASE skatepark;
 
 CREATE TABLE skaters (id SERIAL, email VARCHAR(50) NOT NULL, nombre
